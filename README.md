@@ -26,18 +26,18 @@ I am a **Machine Learning Engineer with 3+ years of experience** in designing an
 
 ## 📌 Featured Projects  
 
-### 🔹 [Stock Price Prediction](#)
+### 🔹 [Stock Price Prediction](https://github.com/Neerajbhardwaj1111/Python-ML-Projects/tree/main/Project_12_Stock_Price_Prediction)
 📈 Built a regression model using **Scikit-Learn + yFinance API** to forecast stock prices.  
 - Processed live stock data with Pandas & NumPy  
 - Predicted future prices with Linear Regression  
 - Visualized historical vs predicted prices  
 
-### 🔹 [Customer Segmentation](#)
+### 🔹 [Customer Segmentation](https://github.com/Neerajbhardwaj1111/Python-ML-Projects/tree/main/Project_18_Customer_Segmentation)
 👥 Applied **K-Means Clustering** to segment mall customers into distinct groups.  
 - Used Elbow Method to find optimal clusters  
 - Visualized segments with Seaborn & Matplotlib  
 
-### 🔹 [Movie Recommendation System](#)
+### 🔹 [Movie Recommendation System](https://github.com/Neerajbhardwaj1111/Python-ML-Projects/tree/main/Project_19_Movie_Recommendation_System)
 🎬 Content-based recommender using **TF-IDF & Cosine Similarity**.  
 - Analyzed movie metadata (cast, crew, genres)  
 - Recommended top N movies similar to a given title  

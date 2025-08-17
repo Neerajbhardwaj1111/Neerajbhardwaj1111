@@ -73,7 +73,6 @@ I am a **Machine Learning Engineer with 3+ years of experience** in designing an
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neerajbhardwaj1111&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajbhardwaj1111&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neerajbhardwaj1111&theme=radical)  
 

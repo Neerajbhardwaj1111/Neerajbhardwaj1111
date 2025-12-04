@@ -1,95 +1,129 @@
-# Neeraj Bhardwaj — Data Engineer (Python + AWS)
+# **Neeraj Bhardwaj – Data Engineer**
 
-**Location:** Noida, India  
+**Email:** bhardwajneeraj501@gmail.com  
 **Phone:** 9899261111  
-**Email:** [bhardwajneeraj501@gmail.com](mailto:bhardwajneeraj501@gmail.com)  
-**LinkedIn:** [linkedin.com/in/bhardwajneeraj1](https://linkedin.com/in/bhardwajneeraj1)
+**LinkedIn:** https://linkedin.com/in/bhardwajneeraj1  
+**GitHub:** https://github.com/Neerajbhardwaj1111  
 
 ---
 
-## Professional Summary
-
-Result-oriented Data Engineer (Python + AWS) with 3+ years of experience designing and optimizing large-scale ETL pipelines, automating cloud workloads, and building high-reliability data systems. Skilled in Python, AWS (EC2, S3, Lambda, RDS, DynamoDB), SQL optimization, and distributed system design. Delivered measurable improvements like 40% latency reduction, 25% accuracy gains, and 99.9% pipeline reliability. Strong in DevOps, system design, and secure, compliant (GDPR/HIPAA) data operations.
-
----
-
-## Core Technical Skills
-
-- **Programming:** Python, FastAPI, REST APIs, DSA, System Design, Scikit-learn, NLP basics, OpenAI API
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, DynamoDB, RDS, CloudWatch), Docker, Kubernetes/Swarm, Jenkins, CI/CD, Git/GitHub, Linux
-- **Data Engineering:** ETL Pipelines, Data Modeling, Pandas, NumPy, AsyncIO, BeautifulSoup, Data Validation, Data Cleansing
-- **Databases:** Oracle, MySQL, SQL Server, SQLite, MongoDB, Query Optimization, Index Tuning
-- **Tools:** Streamlit, Boto3, ServiceNow, AppDynamics, SolarWinds, Postman, PyCharm, VS Code
-- **Soft Skills:** Technical Leadership, Incident Management, RCA, Mentoring, Cross-functional Collaboration
+## ⭐ Profile Summary
+Data Engineer with 3+ years of experience building scalable ETL/ELT pipelines, real-time streaming systems, and cloud-based lakehouse architectures using Apache Spark, Kafka, Airflow, AWS, Snowflake, Python, SQL, Terraform, and Kubernetes. Skilled in distributed systems, high-volume data processing, and data modeling for analytics, ML workflows, and BI platforms. Strong ownership mindset with a track record of delivering production-grade, cost-optimized, and reliable data solutions.
 
 ---
 
-## Experience
+## ⭐ Skills
 
-### Tata Consultancy Services — System Engineer  
-_Aug 2023 – Present | Noida, India_
-- Designed and deployed Python/Bash ETL pipelines with SFTP, APIs, AWS S3, and Veeva CRM; processed 10K+ daily records with 99.9% reliability.
-- Improved data accuracy by 25% and reduced pipeline latency by 40% through parallelization.
-- Built AWS S3 archival systems and EC2 automation, reducing retrieval time by 30%.
-- Led 4 engineers, improving sprint velocity by 15% and enforcing AWS/Linux best practices.
-- Ensured GDPR & HIPAA compliance, implemented encryption, and achieved 100% audit pass.
-- Enhanced Informatica workflows and optimized SQL queries, boosting throughput by 20%.
+### **Core Data Engineering**
+- Apache Spark, PySpark, Kafka, Airflow  
+- ETL/ELT Pipelines (Batch + Streaming)  
+- Data Warehousing, Data Lakes, Lakehouse  
+- Data Modeling, Data Quality & Validation  
 
-### Assistant System Engineer  
-_Aug 2022 – Aug 2023 | Gurugram, India_
-- Troubleshot and optimized high-volume pipelines in Oracle and MySQL.
-- Built Python/Bash scripts for data validation and ingestion, cutting manual work by 35%.
-- Implemented robust API integrations minimizing pipeline exceptions.
-- Delivered L2/L3 production support with AppDynamics/SolarWinds monitoring.
-- Managed P1/P2 incidents, log analysis, RCA, and documentation in ServiceNow.
+### **Cloud & Big Data**
+- AWS (S3, Glue, EMR, Lambda, Kinesis, Redshift, Step Functions, DynamoDB)  
+- Hadoop Ecosystem (HDFS, MapReduce, Hive, HBase)  
 
-### Cognizant — Programmer Analyst Trainee  
-_Feb 2022 – Aug 2022 | Noida, India_
-- Built Django + MySQL app with JWT auth and RBAC.
-- Automated AWS Lambda + S3 ingestion workflows, ensuring 99.9% uptime.
+### **Databases & Warehouses**
+- Snowflake, PostgreSQL, MySQL, Oracle  
+- MongoDB, Cassandra, BigQuery  
 
----
+### **Programming & Tools**
+- Python, SQL, Java, R  
+- AsyncIO, Shell Scripting  
+- NumPy, Pandas, Matplotlib  
 
-## Projects
+### **DevOps & Infrastructure**
+- Docker, Kubernetes (EKS/GKE/AKS)  
+- Terraform, CI/CD, Jenkins  
+- Git/GitHub, Prometheus, Grafana, SonarQube, Ansible  
 
-**Generative AI Agent for Pipeline Design**  
-_Python, FastAPI, OpenAI API, AWS Lambda_  
-- LLM-driven system converting natural language to pipeline blueprints.
-- Automated diagram generation with Python Diagrams; reduced design time by 40%.
+### **Backend & APIs**
+- FastAPI, Flask, Django  
+- SQLAlchemy, Alembic  
+- REST APIs, JWT Authentication  
 
-**News Aggregator Dashboard**  
-_Python, AsyncIO, Streamlit, SQLite_  
-- Built async scraping pipeline aggregating 50+ sources for real-time summarization.
-- Developed Streamlit dashboard with filtering, search, and persistent storage.
-
-**AgriOptima**  
-_FastAPI, AWS, Pandas, NumPy, ML Models_  
-- Scalable pipeline processing 1M+ records from weather/soil/history data.
-- Integrated ML models with FastAPI; achieved <100ms response time.
-- Full AWS deployment with CI/CD and secure networking.
+### **BI Tools**
+- Power BI, DAX  
+- Kafka Connect, Postman, ServiceNow  
 
 ---
 
-## Education
+## ⭐ Professional Experience
 
+### **Tata Consultancy Services — Data Engineer (Bayer)**  
+**Aug 2024 – Present | Noida, India**
+
+- Built scalable Spark + Kafka + Delta pipelines processing **10M+ events/day** with **sub-10s latency**.  
+- Designed AWS-based lakehouse using S3, Glue, EMR, Athena, Redshift — **cut ETL runtime by 60%**.  
+- Developed ELT workflows via Airflow & Step Functions achieving **99.9% pipeline uptime**.  
+- Built microservice ingestion with FastAPI handling **50k+ req/hr** with async execution.  
+- Integrated ML workflows using MLflow, DVC, TensorFlow Serving for automated model versioning.  
+- Improved SQL performance by **60%** using indexing, partitioning & Parquet optimization.  
+- Implemented CI/CD (Jenkins, Terraform) & deployed workloads on Kubernetes — **reduced deployment time by 80%**.  
+- Set up Prometheus + Grafana monitoring, cutting incident resolution time by **40%**.
+
+---
+
+### **Tata Consultancy Services — ETL Developer (CVS)**  
+**Aug 2022 – Aug 2024 | Gurugram, India**
+
+- Designed batch & streaming ETL pipelines using PySpark, Kafka, Airflow.  
+- Migrated legacy pipelines to AWS Glue, Lambda, Kinesis — **reduced cost by 30%**.  
+- Built Snowflake ELT models supporting analytics & BI.  
+- Developed API ingestion frameworks in FastAPI with JWT auth.  
+- Automated data validation improving accuracy by **92%**.  
+- Created Power BI dashboards for KPIs, anomalies & forecasting.  
+- Automated deployments using Docker + Terraform — **reduced manual effort by 70%**.
+
+---
+
+### **Cognizant — Programmer Analyst Trainee**  
+**Feb 2022 – Aug 2022 | Noida, India**
+
+- Built a full-stack Django + MySQL app with JWT-based authentication & RBAC.  
+- Automated AWS Lambda + S3 ingestion workflows with event-driven triggers ensuring **99.9% uptime**.
+
+---
+
+## ⭐ Education
 **B.Tech in Computer Science & Engineering**  
-Noida Institute of Engineering and Technology (2018 – 2022)
+Noida Institute of Engineering and Technology  
+**2018 – 2022 | Greater Noida, India**
 
 ---
 
-## Certifications
+## ⭐ Projects
 
-- AI Associate — Salesforce
-- Career Essentials in Data Analysis — Microsoft & LinkedIn
-- Python Programming — HackerRank
-- Big Data Foundation — Digital Vidya
-- MongoDB Basics — MongoDB University
+### **Generative AI Agent for Pipeline Design Assistance**
+**Python, FastAPI, OpenAI API, AWS Lambda, Boto3**  
+- Built an LLM system converting natural-language inputs into pipeline blueprints.  
+- Automated architecture diagram generation using Python Diagrams — **reduced design time by 40%**.
+
+### **News Aggregator Dashboard**
+**Python, AsyncIO, BeautifulSoup, Streamlit, SQLite**  
+- Async scraping pipeline aggregating **50+ sources** with real-time summarization.  
+- Built Streamlit dashboard with filtering, search, and persistent storage.
+
+### **AgriOptima**
+**FastAPI, AWS (EC2, S3, RDS), Pandas, NumPy, ML Models**  
+- Built scalable data pipeline for **1M+ records** (weather, soil & historical data).  
+- Integrated ML models with **<100ms response time**.  
+- Deployed the system end-to-end on AWS with CI/CD and secure networking.
 
 ---
 
-## Awards
+## ⭐ Certificates
+- **AI Associate — Salesforce** (2025)  
+- **Career Essentials in Data Analysis — Microsoft & LinkedIn** (2025)  
+- **Python Programming — HackerRank** (2025)  
+- **Big Data Foundation — Digital Vidya** (2025)  
+- **MongoDB Basics — MongoDB University** (2024)
 
-- Runner-up — TCS AI Fridays (2025)
-- Xcelerate Warrior — TCS (2025)
-- On The Spot Award — TCS (2024)
-- Star Team Award — TCS (2024)
+---
+
+## ⭐ Awards
+- **TCS AI Fridays — Runner Up**  
+- **Xcelerate Warrior — TCS**  
+- **On The Spot Award — TCS**  
+- **Star Team Award — TCS**

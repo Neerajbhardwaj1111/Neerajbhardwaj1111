@@ -1,122 +1,211 @@
-# Neeraj Bhardwaj  
-**Data Engineer | Python, SQL, AWS | ETL & Serverless Pipelines | Lambda, S3, Glue, CI/CD**
+# Neeraj Bhardwaj
 
-📍 Noida, Uttar Pradesh, India  
-📞 +91-9899261111  
-📧 bhardwajneeraj501@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/bhardwajneeraj1  
+# Site Reliability Engineer (SRE)
 
----
-
-## 👤 Summary
-Cloud & Data Engineer with **3.5+ years of experience** at Tata Consultancy Services, specializing in **Python-based data engineering, cloud automation, and ETL pipeline development**. Strong expertise in **AWS (EC2, S3, IAM, Lambda, DynamoDB, Step Functions)** and SQL. Proven ability to deliver **secure, scalable, and compliant cloud data solutions**, collaborate during **UAT**, and drive automation to improve system reliability and efficiency.
+📍 Noida, India
+📧 [bhardwajneeraj501@gmail.com](mailto:bhardwajneeraj501@gmail.com)
+📱 +91 9899261111
+🔗 LinkedIn: [bhardwajneeraj1](https://linkedin.com/in/bhardwajneeraj1)
+💻 GitHub: [Neerajbhardwaj1111](https://github.com/Neerajbhardwaj1111)
 
 ---
 
-## 🛠️ Top Skills
-- Python  
-- SQL  
-- AWS  
-- ETL / ELT Pipelines  
-- Serverless Architecture  
-- AWS Lambda  
-- Amazon S3  
-- AWS Glue  
-- CI/CD  
-- Data Warehousing  
-- Data Modeling  
-- Cloud Automation  
-- Linux  
-- Proactive Monitoring  
+# Profile
+
+Site Reliability Engineer with 4+ years of experience in cloud operations, production support, incident management, and infrastructure automation across enterprise environments. Skilled in AWS, Kubernetes, Docker, Linux, Python automation, ETL pipelines, and L3 troubleshooting.
+
+Proven expertise in:
+
+* Root Cause Analysis (RCA)
+* SLA management
+* CI/CD
+* Cloud-native operational support
+* Infrastructure automation
+* Production reliability engineering
+
+Experienced in managing critical production incidents, automating workflows, and improving platform reliability for large-scale enterprise systems.
 
 ---
 
-## 💼 Experience
+# Technical Skills
 
-### **Tata Consultancy Services (TCS)**  
-**System Engineer**  
-*Aug 2024 – Present | Noida, India*
+## Cloud Platforms & Infrastructure
 
-**Responsibilities**
-- Designed and optimized **end-to-end Python-based ETL pipelines** handling data from multiple enterprise sources  
-- Improved **data accuracy by 25%** and reduced **pipeline latency by 40%** through optimized SQL and processing logic  
-- Architected **AWS-based data archival solutions** using S3, EC2, and DynamoDB, reducing manual effort by **70%**  
-- Built and deployed **serverless workflows** using AWS Lambda and Step Functions  
-- Configured **IAM roles and security policies** following AWS best practices  
-- Implemented **GDPR-compliant data handling** and secure cloud configurations  
-- Led application onboarding and collaborated with stakeholders during **UAT**  
-- Mentored junior engineers in Python and AWS  
+* AWS (EC2, S3, Glacier, Lambda, IAM, RDS, AWS Glue)
+* Kubernetes
+* Docker
+* Linux
+* RHEL
+* Cloud Operations
+* Infrastructure Automation
 
-**Impact**
-- Delivered scalable, secure, and compliant cloud data solutions  
-- Improved system reliability and operational efficiency  
+## Programming, Scripting & APIs
 
----
+* Python
+* FastAPI
+* REST APIs
+* Boto3
+* Automation Scripting
+* Shell Scripting
 
-### **Assistant System Engineer**  
-*Tata Consultancy Services*  
-*Aug 2023 – Aug 2024 | Gurugram, India*
+## SRE & DevOps
 
-- Developed and enhanced **Python-based ETL pipelines** ingesting data from SFTP, REST APIs, and AWS S3  
-- Implemented **SQL-based data validation and reconciliation**  
-- Built **Python and Bash automation scripts** to reduce manual effort  
-- Worked with **AWS EC2, S3, IAM, DynamoDB, and CloudWatch**  
-- Supported **AWS Lambda-based serverless workflows**  
-- Collaborated during **UAT and production deployments**  
+* Site Reliability Engineering (SRE)
+* CI/CD Pipelines
+* Production Support
+* Incident Management
+* Root Cause Analysis (RCA)
+* SLA Management
+* L3 Support
+* Platform Operations
+* Troubleshooting
 
----
+## Monitoring, Observability & ITSM
 
-### **Assistant System Engineer Trainee**  
-*Tata Consultancy Services*  
-*Aug 2022 – Aug 2023 | Gurugram, India*
+* ServiceNow
+* AppDynamics
+* SolarWinds
+* Omnibus
+* MIR3
+* BeyondTrust
+* System Monitoring
+* Alert Management
+* Logging & Observability
 
-- Assisted in developing **Python scripts** for data processing and automation  
-- Supported **AWS Lambda functions** for S3-based ingestion  
-- Performed **basic SQL queries** for validation and checks  
-- Helped maintain **Django applications** with MySQL backend  
-- Monitored data pipelines and reported issues  
-- Followed standard coding and **Git-based version control** practices  
+## Data Engineering & Databases
 
----
+* ETL Pipelines
+* Informatica
+* Data Pipelines
+* Oracle Database
+* MySQL
+* Microsoft SQL Server
+* SQL
+* NoSQL
+* JSON
+* CSV
+* Parquet
 
-### **Cognizant Technology Solutions**  
-**Programmer Analyst Trainee**  
-*Feb 2022 – Aug 2022 | India*
+## AI/ML & Enterprise Tools
 
-- Developed **Django web applications** with MySQL backend  
-- Built **AWS Lambda functions** for S3 data ingestion  
-- Wrote **Python scripts** for data processing and validation  
-- Executed **SQL queries** for data consistency checks  
-- Supported testing, debugging, and deployment  
-- Followed **Agile methodology** and used Git for version control  
-
----
-
-## 🎓 Education
-**B.Tech – Computer Software Engineering**  
-Noida Institute of Engineering & Technology  
-*Jul 2018 – Jul 2022*
-
----
-
-## 📜 Certifications
-- Salesforce Certified AI Associate  
-- Career Essentials in Data Analysis – Microsoft & LinkedIn  
-- Big Data Foundation Course  
-- MongoDB Basics (M001)  
-- Python (Basics)
+* Machine Learning
+* AI
+* NumPy
+* Pandas
+* Scikit-learn
+* OpenAI API
+* Jira
+* Salesforce
+* Agile Methodologies
+* System Design
 
 ---
 
-## 🏆 Honors & Awards
-- On The Spot Award  
-- Star Team Award  
-- Xcelerate Warrior  
-- Service and Commitment Award  
+# Professional Experience
+
+## Nokia — Solutions Specialist
+
+📍 Noida, India
+📅 Jan 2026 – Present
+
+* Owned end-to-end support and optimization of enterprise telecom solutions including ETL, Msync, Subset, PGW, RepoSync, CDR Encryption, Custom Pipelines and OneNDS across production environments handling 10M+ daily transactions.
+* Provided L3 technical support by triaging and resolving complex cross-technology issues spanning Linux, Kubernetes, APIs, databases, cloud platforms, and microservices.
+* Led Root Cause Analysis (RCA) investigations and implemented preventive fixes reducing recurring production incidents by 30%.
+* Proactively monitored system health, optimized infrastructure performance, and improved operational visibility through automation and monitoring solutions.
+* Collaborated closely with engineering, architecture, and product teams while maintaining runbooks, troubleshooting guides, and RCA documentation for operational excellence.
 
 ---
 
-## 🌍 Languages
-- English – Professional  
-- Hindi – Native / Bilingual  
-- German – Elementary  
+## Tata Consultancy Services — System Engineer
+
+📍 Noida, India
+📅 Jan 2024 – Jan 2026
+
+* Developed and maintained Python automation scripts using AWS Boto3 SDK to automate archival workflows moving enterprise data into Amazon S3 Glacier storage classes.
+* Designed on-demand retrieval workflows balancing retrieval speed and operational cost using Glacier Instant, Flexible, and Deep Archive tiers.
+* Implemented AWS S3 Lifecycle policies reducing long-term storage costs by approximately 30%.
+* Built metadata extraction and cataloging workflows using Python enabling efficient indexing and searchability of archived records.
+* Managed archival security and data integrity using AWS IAM policies and checksum validation supporting 99.999999999% archive durability.
+* Worked extensively with AWS Lambda, AWS Glue, ETL pipelines, SQL/NoSQL databases, JSON, CSV, and Parquet workflows.
+* Built an LLM-powered ETL architecture assistant reducing ETL architecture creation time from weeks to hours.
+
+### Assistant System Engineer
+
+📍 Gurugram, Haryana
+📅 Aug 2022 – Dec 2023
+
+* Led major incident bridge calls coordinating 50+ technical teams to ensure rapid triage and resolution of production-critical incidents.
+* Served as the central communication point for executives, stakeholders, and users providing real-time incident updates.
+* Ensured SLA compliance minimizing operational downtime and business impact.
+* Conducted Root Cause Analysis (RCA) reducing repeat incidents by 20%.
+* Maintained KPI dashboards, incident logs, troubleshooting documentation, and audit reports.
+* Worked extensively with ServiceNow, AppDynamics, SolarWinds, Omnibus, MIR3, and enterprise monitoring tools supporting 99.9% uptime environments.
+
+---
+
+## Cognizant — Programmer Analyst Trainee
+
+📍 Noida, India
+📅 Feb 2022 – Aug 2022
+
+* Developed a full-stack RBAC-based web application using Python, HTML, CSS, and JavaScript enabling secure access and management of 1000+ student and staff records.
+* Implemented backend workflows, CRUD operations, and AWS-based deployment support improving operational efficiency and data accessibility.
+
+---
+
+# Projects
+
+## Generative AI Agent for Pipeline Design Assistance
+
+**Tech Stack:** Python, FastAPI, OpenAI API, AWS Lambda, Boto3
+
+* Designed an LLM-based system converting natural-language requirements into data pipeline blueprints.
+* Automated architecture diagram generation reducing design time by 40%.
+
+---
+
+## AgriOptima
+
+**Tech Stack:** FastAPI, AWS (EC2, S3, RDS), Pandas, NumPy, ML Models
+
+* Built a scalable data pipeline processing 1M+ records from weather, soil, and historical datasets.
+* Integrated ML models with FastAPI achieving <100ms API response time.
+* Deployed the system on AWS with CI/CD pipelines and secure networking.
+
+---
+
+## News Aggregator Dashboard
+
+**Tech Stack:** Python, AsyncIO, BeautifulSoup, Streamlit, SQLite
+
+* Built an asynchronous data scraping pipeline aggregating 50+ news sources.
+* Developed a Streamlit dashboard with filtering, search, and persistent storage.
+
+---
+
+# Education
+
+## B.Tech in Computer Science and Engineering
+
+Noida Institute of Engineering and Technology
+📍 Greater Noida, India
+📅 Jul 2018 – Jun 2022
+
+---
+
+# Certifications
+
+* AI Associate — Salesforce
+* Career Essentials in Data Analysis — Microsoft & LinkedIn
+* Python Programming — HackerRank
+* Big Data Foundation Course — Digital Vidya
+* MongoDB Basics — MongoDB University
+
+---
+
+# Awards
+
+🏆 TCS AI Fridays - Runner Up (2025)
+🏆 Xcelerate Warrior - TCS (2025)
+🏆 On The Spot Award - TCS (2024)
+🏆 Star Team Award - TCS (2024)

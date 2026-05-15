@@ -1,6 +1,6 @@
 # Neeraj Bhardwaj
 
-# Site Reliability Engineer (SRE)
+# Solution Specialist
 
 📍 Noida, India
 📧 [bhardwajneeraj501@gmail.com](mailto:bhardwajneeraj501@gmail.com)
@@ -12,7 +12,7 @@
 
 # Profile
 
-Site Reliability Engineer with 4+ years of experience in cloud operations, production support, incident management, and infrastructure automation across enterprise environments. Skilled in AWS, Kubernetes, Docker, Linux, Python automation, ETL pipelines, and L3 troubleshooting.
+Solution Specialist with 4+ years of experience in cloud operations, production support, incident management, and infrastructure automation across enterprise environments. Skilled in AWS, Kubernetes, Docker, Linux, Python automation, ETL pipelines, and L3 troubleshooting.
 
 Proven expertise in:
 

@@ -1,116 +1,217 @@
-# Hi 👋, I'm Neeraj Bhardwaj
+<div align="center">
 
-## 🚀 Senior Python Developer | Backend Engineer | Cloud & DevOps Enthusiast
+# 🚀 Neeraj Bhardwaj
 
-💻 Results-driven Python Developer with 4+ years of experience in Backend Development, ETL Pipelines, AWS Cloud, FastAPI, Docker, Kubernetes, and Production Support.
+### Senior Python Developer | Backend Engineer | Cloud & DevOps Enthusiast
 
-🔧 Passionate about building scalable systems, automating workflows, optimizing infrastructure, and solving real-world engineering problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+FastAPI+Expert;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Backend+Systems;ETL+Pipelines+%7C+Automation+%7C+AI;Production+Support+%7C+Cloud+Engineering" />
+
+<p align="center">
+  <a href="mailto:bhardwajneeraj501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhardwajneeraj501%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://linkedin.com/in/bhardwajneeraj1">
+    <img src="https://img.shields.io/badge/LinkedIn-Neeraj_Bhardwaj-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://github.com/Neerajbhardwaj1111">
+    <img src="https://img.shields.io/badge/GitHub-Neerajbhardwaj1111-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Neerajbhardwaj1111&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🌟 About Me
+# 💫 About Me
 
-* 🔭 Currently working as **Solutions Specialist at Nokia**
-* 🌱 Learning **Advanced System Design & Generative AI**
-* ☁️ Experienced with **AWS, Docker, Kubernetes & Linux**
-* 🧠 Interested in **AI Applications, Backend Engineering & Cloud Architecture**
-* ⚡ Strong expertise in:
+```python
+class NeerajBhardwaj:
 
-  * Python Development
-  * ETL/Data Pipelines
-  * FastAPI & REST APIs
-  * L3 Production Support
-  * Automation & DevOps
-  * Cloud Infrastructure
+    def __init__(self):
+        self.role = "Senior Python Developer"
+        self.experience = "4+ Years"
+        self.location = "India 🇮🇳"
+        self.skills = [
+            "Python",
+            "FastAPI",
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "ETL Pipelines",
+            "Linux",
+            "Generative AI",
+            "Automation"
+        ]
+
+    def current_focus(self):
+        return [
+            "Scalable Backend Systems",
+            "Cloud Native Applications",
+            "AI Powered Solutions",
+            "DevOps Automation"
+        ]
+
+    def life_motto(self):
+        return "Build • Automate • Scale 🚀"
+```
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Arsenal
 
-### 👨‍💻 Programming & Backend
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+## 👨‍💻 Languages & Backend
 
-### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,bash" />
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+---
 
-### 📊 Data Engineering
+## ☁️ Cloud & DevOps
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" />
 
-### 🤖 AI / ML
+---
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
+## 🗄️ Databases & Data Engineering
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+<img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Engineering-0078D4?style=for-the-badge" />
+
+---
+
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/Generative_AI-00C7B7?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🏆 Professional Highlights
+
+✨ Reduced recurring production incidents by **60%** through RCA and automation
+
+⚡ Supported **50+ enterprise telecom solutions** in production environments
+
+🚀 Built scalable ETL & backend systems using **Python + AWS**
+
+🤖 Developed AI-powered pipeline design assistant using **OpenAI APIs**
+
+☁️ Hands-on expertise in **Docker, Kubernetes, Linux & Cloud Infrastructure**
+
+📈 Improved operational visibility through monitoring automation & health checks
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 Generative AI Agent for Pipeline Design Assistance
+## 🤖 Generative AI Agent for Pipeline Design Assistance
 
-* AI-powered system converting requirements into automated data pipeline blueprints
-* Integrated OpenAI APIs for intelligent workflow recommendations
-* Reduced pipeline design time by 40%
+### 🔹 Overview
 
-### Tech Used:
+AI-powered assistant that converts natural language requirements into intelligent data pipeline blueprints.
 
-`Python` `FastAPI` `OpenAI API` `AWS Lambda` `Boto3`
+### 🔹 Features
 
----
+* OpenAI-powered architecture recommendations
+* Automated workflow generation
+* Dynamic pipeline blueprint creation
+* FastAPI backend APIs
+* AWS Lambda serverless deployment
 
-## 🔹 News Aggregator Dashboard
+### 🔹 Tech Stack
 
-* Built asynchronous scraping pipelines aggregating 50+ news sources
-* Developed interactive Streamlit dashboard with search & filtering
-
-### Tech Used:
-
-`Python` `AsyncIO` `BeautifulSoup` `Streamlit` `SQLite`
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neerajbhardwaj1111&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajbhardwaj1111&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajbhardwaj1111&layout=compact&theme=tokyonight" />
-</p>
+```yaml
+Python
+FastAPI
+OpenAI API
+AWS Lambda
+Boto3
+Generative AI
+```
 
 ---
 
-# 🏆 Achievements
+## 📰 News Aggregator Dashboard
 
-* 🥈 TCS AI Fridays — Runner Up
-* 🏅 Xcelerate Warrior Award
-* ⭐ On The Spot Award
-* 🌟 Star Team Award
+### 🔹 Overview
+
+High-performance asynchronous news aggregation system collecting real-time updates from 50+ sources.
+
+### 🔹 Features
+
+* Async scraping pipelines
+* Streamlit analytics dashboard
+* Search & filtering system
+* SQLite persistent storage
+
+### 🔹 Tech Stack
+
+```yaml
+Python
+AsyncIO
+BeautifulSoup
+Streamlit
+SQLite
+```
+---
+
+# 🏅 Achievements
+
+🥈 **TCS AI Fridays — Runner Up**
+
+🏆 **Xcelerate Warrior Award**
+
+⭐ **On The Spot Award**
+
+🌟 **Star Team Award**
 
 ---
 
-# 📫 Connect With Me
+# 📚 Currently Learning
 
-* 📧 Email: **[bhardwajneeraj501@gmail.com](mailto:bhardwajneeraj501@gmail.com)**
-* 💼 LinkedIn: **linkedin.com/in/bhardwajneeraj1**
-* 🖥️ GitHub: **github.com/Neerajbhardwaj1111**
+* Advanced System Design
+* Distributed Systems
+* AI Engineering
+* Kubernetes Scaling
+* Cloud Security
 
 ---
 
-# 💡 Quote
+# 🌐 Let's Connect
 
-> “Code. Automate. Optimize. Scale.”
+<div align="center">
+
+<a href="mailto:bhardwajneeraj501@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/bhardwajneeraj1">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Neerajbhardwaj1111">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Philosophy
+
+### *"Great software is built with clean code, scalable systems, and relentless curiosity."*
+
+</div>
